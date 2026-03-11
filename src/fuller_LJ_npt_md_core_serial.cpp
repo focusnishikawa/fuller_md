@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: BSD-3-Clause
+// Copyright (c) 2025, Takeshi Nishikawa
 /*===========================================================================
   fuller_LJ_npt_md_core_serial.cpp
   C60フラーレン結晶 NPT分子動力学シミュレーション

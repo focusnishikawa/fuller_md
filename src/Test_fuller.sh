@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: BSD-3-Clause
+# Copyright (c) 2025, Takeshi Nishikawa
 #===========================================================================
 #  Test_fuller.sh — フラーレン結晶 NPT-MD 動作検証スクリプト
 #

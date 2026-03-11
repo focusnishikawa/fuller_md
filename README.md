@@ -320,6 +320,10 @@ bin/fuller_airebo_npt_md_serial --help
 - Linux (NVIDIA HPC SDK + GPU) — Serial/OpenMP/OpenACC
 - 検証済み: FOCUS スパコン (GCC 12.2.0 + NVIDIA HPC SDK 24.5)
 
+## ライセンス
+
+本プロジェクトは [BSD 3-Clause License](LICENSE) の下で公開されています。
+
 ## 他言語・他バージョン
 
 | リポジトリ | 言語 | 説明 |
