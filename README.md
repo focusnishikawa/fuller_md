@@ -319,3 +319,12 @@ bin/fuller_airebo_npt_md_serial --help
 - Linux (GCC 12+) — Serial/OpenMP
 - Linux (NVIDIA HPC SDK + GPU) — Serial/OpenMP/OpenACC
 - 検証済み: FOCUS スパコン (GCC 12.2.0 + NVIDIA HPC SDK 24.5)
+
+## 他言語・他バージョン
+
+| リポジトリ | 言語 | 説明 |
+|-----------|------|------|
+| [fuller_md](https://github.com/focusnishikawa/fuller_md) | C++ (日本語) | このリポジトリ |
+| [fuller_md_en](https://github.com/focusnishikawa/fuller_md_en) | C++ (English) | C++版 英語 |
+| [fuller_md_Julia](https://github.com/focusnishikawa/fuller_md_Julia) | Julia (English) | Julia版 英語 |
+| [fuller_md_Julia_ja](https://github.com/focusnishikawa/fuller_md_Julia_ja) | Julia (日本語) | Julia版 日本語 |
