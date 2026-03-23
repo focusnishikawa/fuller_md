@@ -332,3 +332,5 @@ bin/fuller_airebo_npt_md_serial --help
 | [fuller_md_en](https://github.com/focusnishikawa/fuller_md_en) | C++ (English) | C++版 英語 |
 | [fuller_md_Julia](https://github.com/focusnishikawa/fuller_md_Julia) | Julia (English) | Julia版 英語 |
 | [fuller_md_Julia_ja](https://github.com/focusnishikawa/fuller_md_Julia_ja) | Julia (日本語) | Julia版 日本語 |
+| [fuller_md_fortran](https://github.com/focusnishikawa/fuller_md_fortran) | Fortran 95 (日本語) | Fortran版 日本語 |
+| [fuller_md_fortran_en](https://github.com/focusnishikawa/fuller_md_fortran_en) | Fortran 95 (English) | Fortran版 英語 |
